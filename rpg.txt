@@ -5,3 +5,5 @@ This is another commit.
 This is the first commit of the enemy branch. 
 
 This is the second commit of the enemy branch.  We are adding more functionality.
+
+Third commit - enemy
