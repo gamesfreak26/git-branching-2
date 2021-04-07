@@ -4,6 +4,6 @@ This is another commit.
 
 This is the first commit of the enemy branch. 
 
-This is the second commit of the enemy branch.  We are adding more functionality.
+This is the second commit of the enemy branch. Adding functionality to player branch in our first commit in the player branch. We are adding more functionality.
 
 Third commit - enemy
